@@ -224,3 +224,14 @@ body {
         "cta2"
     }
  
+
+ @media only screen and (max-width: 600px){
+  .menu{
+    ist-style: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    justify-content: space-around;
+
+  }
+}
