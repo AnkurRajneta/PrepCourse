@@ -1,4 +1,4 @@
-code {  font-family: Helvetica, Arial, sans-serif; color: #660000;
+*superman {  font-family: Helvetica, Arial, sans-serif; color: #660000;
     font-style: normal
  }
 pre {  color: #660000; font-family: Helvetica, Arial, sans-serif
@@ -11,3 +11,4 @@ pre {  color: #660000; font-family: Helvetica, Arial, sans-serif
          border-right-width: 5px; border-bottom-width: 5px;
          border-left-width: 5px
       }
+
