@@ -1,11 +1,10 @@
 body {
     font-size: 15px;
+    font-family: Helvetica, Arial;
   }
   
   button {
-    background: linear-gradient(
-45deg
-, #eef757, transparent);
+    background: linear-gradient(45deg, #eef757, transparent);
     border: 0;
     padding: 10px 20px;
   }
@@ -14,8 +13,6 @@ body {
     max-width: 100%;
   }
 
-  /* .wrapper */
-  
   .wrapper {background-color: firebrick;
     background-image: linear-gradient(
         50deg, #71f8ee, rgb(243 129 139));
@@ -76,7 +73,6 @@ body {
     font-weight: 300;
   }
   
-  /* Navigation */
   
   .menu ul {
     display: grid;
